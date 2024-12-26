@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeantai/static/css/main.380a35d8.css",
+    "main.js": "/codeantai/static/js/main.efa36e3d.js",
+    "static/js/488.4d871f4d.chunk.js": "/codeantai/static/js/488.4d871f4d.chunk.js",
+    "index.html": "/codeantai/index.html",
+    "main.380a35d8.css.map": "/codeantai/static/css/main.380a35d8.css.map",
+    "main.efa36e3d.js.map": "/codeantai/static/js/main.efa36e3d.js.map",
+    "488.4d871f4d.chunk.js.map": "/codeantai/static/js/488.4d871f4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.380a35d8.css",
+    "static/js/main.efa36e3d.js"
+  ]
+}
